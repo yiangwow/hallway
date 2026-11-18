@@ -1,0 +1,4 @@
+.godot/
+shots/*.png
+*.import.tmp
+dist/
