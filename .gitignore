@@ -1,4 +1,6 @@
 .godot/
-shots/*.png
+shots/*
+!shots/.gdignore
 *.import.tmp
 dist/
+__pycache__/
