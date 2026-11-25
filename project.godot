@@ -9,6 +9,7 @@ config/features=PackedStringArray("4.5", "Forward Plus")
 [display]
 window/size/viewport_width=1600
 window/size/viewport_height=900
+window/size/resizable=true
 
 [rendering]
 lights_and_shadows/directional_shadow/size=4096
